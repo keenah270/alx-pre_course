@@ -1,1 +1,1 @@
-My first read me
+Manual editing on the Github website.
